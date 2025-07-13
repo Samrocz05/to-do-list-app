@@ -27,4 +27,10 @@ A simple and elegant web-based To-Do List application that helps users manage da
 ---
 
 ## 📦 Folder Structure
+todo-list-app/
+│
+├── index.html
+├── style.css
+└── script.js
+
 
